@@ -1,2 +1,55 @@
-/*create your custom styling here*/
+div {
 
+}
+
+#header {
+	height: 150px;
+	background-color: green;
+    border:4px solid;	
+}
+
+.left {
+	height: 500px;
+	width: 150px;
+	background-color: blue;
+	float: left;
+    border:4px solid;	
+}
+
+.right {
+	height: 500px;
+	width: 150px;
+	background-color: blue;
+	float: right;
+    border:4px solid;	
+}
+
+#footer {
+	height: 150px;
+	background-color: red;
+    clear: both;
+    border:4px solid;
+
+}
+
+.article {
+	height: 500px;
+	background-color: orange;
+	border:4px solid;
+}	
+
+.smallbox {
+	height: 130px;
+	width: 100px;
+	background-color: yellow;
+	margin: 20px;
+	float: top;
+	border-radius: 10px;
+}	
+
+.longbox {
+	height:430px;
+	background-color:yellow;
+	margin: 20px;
+	border-radius: 10px;
+}	
